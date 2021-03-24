@@ -1,0 +1,26 @@
+h1{
+    color: rgb(79, 218, 86)
+}
+/* * {
+    border: solid;
+} */
+.header{
+  background-color:rgb(223, 202, 88);
+  display:flex;
+  justify-content: space-between;
+}
+.grid{
+display:flex;
+flex-wrap:wrap;
+justify-content: space-evenly;
+}
+.footer{
+display:flex; 
+justify-content: flex-start; 
+}
+p,h2{
+    text-align:center;
+}
+body{
+    background-image: url("sunset.jpg");
+}
